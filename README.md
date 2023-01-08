@@ -2,7 +2,8 @@
 <b> Demo -> https://blogwithsanity-piyushyadav0191.vercel.app/ </b>
 
 ### To get Started 
-``` git clone https://github.com/piyushyadav0191/full-stack-next-blog.git
+```
+    git clone https://github.com/piyushyadav0191/full-stack-next-blog.git
     cd full-stack-next-blog
     npm i
     npm run dev
