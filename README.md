@@ -1,4 +1,4 @@
-##  Blog Created with Nextjs + Typescript and Sanity as CMS
+##  🔥Blog Created with Nextjs + Typescript and Sanity as CMS🔥
 <b> Demo -> https://blogwithsanity-piyushyadav0191.vercel.app/ </b>
 
 ### To get Started 
